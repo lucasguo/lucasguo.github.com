@@ -5,6 +5,8 @@ table {
 	border-width: 1px;
 	border-color: #666666;
 	border-collapse: collapse;
+	margin-top: 10px;
+	margin-bottom: 10px;
 }
 table th {
 	border-width: 1px;
@@ -21,6 +23,6 @@ table td {
 	background-color: #ffffff;
 }
 
-tbody tr:nth-child(odd) {
+table tbody tr:nth-child(odd) {
    background-color: #ccc;
 }

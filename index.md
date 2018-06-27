@@ -5,13 +5,17 @@ tagline: 知识就是力量
 ---
 {% include JB/setup %}
 
-## 年度计划
-Hadoop
-ZooKeeper
-区块链原理
-Spring源码
+### 年度计划
+- ~~Hadoop入门~~
+- ZooKeeper入门
+- 区块链原理
+- Spring源码
 
-## 文章列表
+### 2019年计划
+- dubbo和spring cloud
+- 刷算法
+
+### 文章列表
 
 <ul class="posts">
   {% for post in site.posts %}

@@ -7,12 +7,12 @@ tagline: 知识就是力量
 
 ### 年度计划
 - ~~Hadoop入门~~
-- ZooKeeper入门
-- 区块链原理
+- ~~ZooKeeper入门~~
+- ~~区块链原理~~
 - Spring源码
 
 ### 2019年计划
-- dubbo和spring cloud
+- 高等数学(美国AP)
 - 刷算法
 
 ### 文章列表
